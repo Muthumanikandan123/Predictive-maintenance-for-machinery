@@ -1,1 +1,0 @@
-# Predictive-maintenance-for-machinery
